@@ -1,5 +1,0 @@
-# Número de utilizações do desenvolvedor Antonio Vandré.
-
-# Arquivo útil para manter a fidelidade das estatísticas de uso por outros usuários.
-
-3
