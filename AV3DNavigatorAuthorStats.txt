@@ -1,0 +1,5 @@
+AV3DNavigatorAuthorStats
+
+# Estatísticas de uso do AV3DNavigator pelos próprios desenvolvedores, descontando nos cálculos finais.
+
+AV3DNavigatorExecCount,3
