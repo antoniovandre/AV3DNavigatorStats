@@ -4,6 +4,6 @@ AV3DNavigatorAuthorStats
 
 # Formato: [CHAVE] , [NÚMERO DE UTILIZAÇÕES]
 
-# Última atualização: 20-10-2025.
+# Última atualização: 03-04-2025.
 
-AV3DNavigatorExecCount, 4
+AV3DNavigatorExecCount, 6
